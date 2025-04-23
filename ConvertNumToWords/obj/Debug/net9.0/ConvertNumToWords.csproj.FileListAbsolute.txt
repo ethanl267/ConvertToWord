@@ -1,0 +1,14 @@
+C:\Users\ethan\Documents\ConvertNumToWords\bin\Debug\net9.0\ConvertNumToWords.exe
+C:\Users\ethan\Documents\ConvertNumToWords\bin\Debug\net9.0\ConvertNumToWords.deps.json
+C:\Users\ethan\Documents\ConvertNumToWords\bin\Debug\net9.0\ConvertNumToWords.runtimeconfig.json
+C:\Users\ethan\Documents\ConvertNumToWords\bin\Debug\net9.0\ConvertNumToWords.dll
+C:\Users\ethan\Documents\ConvertNumToWords\bin\Debug\net9.0\ConvertNumToWords.pdb
+C:\Users\ethan\Documents\ConvertNumToWords\obj\Debug\net9.0\ConvertNumToWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Documents\ConvertNumToWords\obj\Debug\net9.0\ConvertNumToWords.AssemblyInfoInputs.cache
+C:\Users\ethan\Documents\ConvertNumToWords\obj\Debug\net9.0\ConvertNumToWords.AssemblyInfo.cs
+C:\Users\ethan\Documents\ConvertNumToWords\obj\Debug\net9.0\ConvertNumToWords.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\ConvertNumToWords\obj\Debug\net9.0\ConvertNumToWords.dll
+C:\Users\ethan\Documents\ConvertNumToWords\obj\Debug\net9.0\refint\ConvertNumToWords.dll
+C:\Users\ethan\Documents\ConvertNumToWords\obj\Debug\net9.0\ConvertNumToWords.pdb
+C:\Users\ethan\Documents\ConvertNumToWords\obj\Debug\net9.0\ConvertNumToWords.genruntimeconfig.cache
+C:\Users\ethan\Documents\ConvertNumToWords\obj\Debug\net9.0\ref\ConvertNumToWords.dll
